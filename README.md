@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Palash2003&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
 <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palash2003&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
 <img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Palash2003&theme=nightowl"/>
+
+<p align="left" display="hidden"> <img src="https://komarev.com/ghpvc/?username=Palash2003" alt="Palash2003" /> </p>
